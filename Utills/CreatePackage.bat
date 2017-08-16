@@ -1,0 +1,1 @@
+nuget pack Utills.csproj -IncludeReferencedProjects -Prop Configuration=Release
