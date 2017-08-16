@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更してください。
 [assembly: AssemblyTitle("Utills")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("C# utills")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("yamazaking")]
 [assembly: AssemblyProduct("Utills")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]

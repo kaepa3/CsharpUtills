@@ -42,9 +42,5 @@ namespace Utills.Serialize.Test
 
             public int Maker;
         }
-
-
-
-
     }
 }
